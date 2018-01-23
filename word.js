@@ -1,27 +1,16 @@
-var letter = require('./letter.js');
+//Characters from the Netflix Show "Stranger Things";
 
 
-function Word (goal) {
-    this.goal= goal;
-    this.guess= [];
-    this.correct= false;
-
-
-this.
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-module.exports = Word;
+module.exports = [
+"Eleven",
+"Miket"
+"Lucas",
+"Will"
+"Dustin",
+"Max",
+"Nancy",
+"Steve"
+"Barb"
+"Cheif Hopper"
+"Bob"
+];
